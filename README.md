@@ -1,4 +1,4 @@
-# List of Algorithm Codes in this repo:
+# List of Algorithm Codes (in C) in this repo:
 
 ### Searching: 
 - Linear Search
