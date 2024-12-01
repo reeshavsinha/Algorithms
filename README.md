@@ -20,8 +20,8 @@ List of codes in this repo:
 - Job Sequencing with Deadlines (JSWD)
 - Optimal Merge Patterns (with Huffman Coding)
 - Minimum Cost Spanning Tree (MCST): 
-- - Prim's
-- - Krushal's Methods
+  - Prim's
+  - Krushal's Methods
 - Dijkstra's Shortest Path Problems
 ### Dynamic Programming (DP): 
 - Multistage Graphs
